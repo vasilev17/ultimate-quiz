@@ -1,1 +1,1 @@
-# ultimate-quiz
+# The Ultimate Quiz
