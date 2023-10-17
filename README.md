@@ -4,7 +4,7 @@ This Java GUI consists of 3 different theme quizzes.
 
 ## Installation
 
-To run the app you simply need to use git or the download button (on the right) to download the project and then execute the Quiz.java file located:
+To run the app you simply need to use git or the download button (on the right) to download the project and then execute the ```Quiz.java``` file located:
 
 ```bash
 ultimate-quiz\src\Quiz.java
