@@ -15,23 +15,23 @@ ultimate-quiz\src\Quiz.java
 **Main screen:**
 
 <p align="center">
-  <img src="https://i.ibb.co/pPD5fG1/image.png">
+  <img src="misc/Home%20Page.png">
 </p>
 
 **Question screen:**
 
 <p align="center">
-  <img src="https://i.ibb.co/W2tLdbk/q1.png">
+  <img src="misc/Question%20Page.png">
 </p>
 
 **Correct Answer screen:**
 
 <p align="center">
-  <img src="https://i.ibb.co/7CR5WcD/image.png">
+  <img src="misc/Correct%20Answer%20Page.png">
 </p>
 
 **Wrong Answer screen:**
 
 <p align="center">
-  <img src="https://i.ibb.co/FK7kBb7/image.png">
+  <img src="misc/Wrong%20Answer%20Page.png">
 </p>
