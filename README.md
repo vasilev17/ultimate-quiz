@@ -1,4 +1,4 @@
-# The Ultimate Quiz
+# ❓ The Ultimate Quiz
 
 This Java GUI consists of 3 different theme quizzes.
 
